@@ -49,6 +49,7 @@ Understand factors driving employee attrition in an organization. Explore demogr
 ## 📊 Dashboard Preview
 
 Example screenshot from Power BI dashboard:
+
 dashboard/dashboard_screenshots/HR_dashboard.png
 
 > 📌 To explore the full dashboard, open the `.pbix` file using [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
